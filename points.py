@@ -8,3 +8,4 @@ def get_x(point):
 
 def get_y(point):
     return point["y"]
+

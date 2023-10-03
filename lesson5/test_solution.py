@@ -2,7 +2,7 @@ import solution
 
 
 def rgb2tuple(rgb):
-    return rgb.red, rgb.green, rgb.blue
+    return rgb.red, rgb.green, rgb.blue  # ф-ция на вход принимает экземпляр класса.
 
 
 def test_instances():
